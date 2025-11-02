@@ -82,6 +82,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <input type="submit" value="Add Bus">
                 <a href="view_buses.php" style="text-decoration: none; padding: 10px 20px; background-color: #95a5a6; color: white; border-radius: 4px;">Cancel</a>
             </form>
+            <h3>New Changes</h3>
         </div>
     </div>
 </body>
