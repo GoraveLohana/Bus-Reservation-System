@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <h2>Add New Bus</h2>
             <form method="POST">
                 <div class="form-group">
-                    <label for="bus_number">Bus Number :</label>
+                    <label for="bus_number">Bus Number:</label>
                     <input type="text" id="bus_number" name="bus_number" required>
                 </div>
                 
