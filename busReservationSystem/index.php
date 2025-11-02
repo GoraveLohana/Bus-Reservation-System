@@ -11,7 +11,7 @@ include("db/connect.php");
 </head>
 <body>
     <header>
-        <h1>Bus Reservation System</h1>
+        <h1>Bus Reservation System </h1>
     </header>
 
     <nav>
